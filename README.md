@@ -18,3 +18,13 @@
 - Component Props
 - Searchbox Component
 - Functional vs Class Components
+
+## Day 3
+- Pure & Impure Functions
+- Hooks: useState/useEffect
+- Functional Component: Re-rendering/Infinite
+- React and ReactDOM
+- Capstone Project Intro & Setup
+- Sass
+- Category Item Component/Directory Component
+- Routing: React Router
