@@ -28,3 +28,13 @@
 - Sass
 - Category Item Component/Directory Component
 - Routing: React Router
+  
+## Day 4
+- Authentication + Firebase
+- Async Await
+- Firestore Database
+- Sign Up & Sign In Form
+- Sign Up with Email + Password
+- User Context
+- Signing Out
+- Oberserver: onAuthStateChange
