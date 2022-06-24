@@ -38,3 +38,12 @@
 - User Context
 - Signing Out
 - Oberserver: onAuthStateChange
+  
+## Day 5
+- New Shop Page 
+- Products Context, Product Card Component
+- Cart Icon & Dropdown/ Toggle Cart Open
+- Add to Cart
+- Checkout Page/Checkout Item
+- Firestore DB 
+- Get Products + Categories From Firestore
