@@ -47,3 +47,10 @@
 - Checkout Page/Checkout Item
 - Firestore DB 
 - Get Products + Categories From Firestore
+  
+## Day 6
+- Deploying with Netlify
+- Reducers
+- Redux vs Context
+- React-Redux
+- Setting up Store
