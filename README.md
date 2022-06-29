@@ -61,3 +61,12 @@
 - Context -> Redux
 - Redux-Persist
 - Redux-Thunk
+
+## Day 8
+- Redux-Saga
+- Generator Functions
+- Thunk -> Saga
+- Serverless Functions 
+- Typescript Basics
+- TS Interfaces
+- TS Types
