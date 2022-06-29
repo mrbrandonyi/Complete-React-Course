@@ -54,3 +54,10 @@
 - Redux vs Context
 - React-Redux
 - Setting up Store
+
+## Day 7 
+- MiddleWare
+- Memoization
+- Context -> Redux
+- Redux-Persist
+- Redux-Thunk
