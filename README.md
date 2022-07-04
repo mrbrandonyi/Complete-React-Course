@@ -70,3 +70,11 @@
 - Typescript Basics
 - TS Interfaces
 - TS Types
+
+## Day 9
+- TS Redux
+- TS Firebase
+- TS Redux Store + Middleware
+- TS Redux Saga
+- TS Components
+- GraphQL + Apollo Client
