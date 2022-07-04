@@ -78,3 +78,10 @@
 - TS Redux Saga
 - TS Components
 - GraphQL + Apollo Client
+
+## Day 10
+- Performance Optimizations
+- Mobile Support
+- Progressive Web App
+- Webpack + Babel
+- Testing in React
